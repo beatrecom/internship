@@ -102,7 +102,7 @@ Frames will appear in the `frames/` folder.
 
 ---
 
-## 5. Handy cheat‑sheet 📋
+## 5. Handy cheat‑sheet 
 
 | Task | Command |
 |------|---------|
@@ -115,10 +115,10 @@ Frames will appear in the `frames/` folder.
 
 ## 6. How to share this guide
 
-- **GitHub / GitLab**: Commit this `README.md` to your intern onboarding repo.
+- **GitHub / GitLab**: Commit this `README.md`.
 - **Notion / Confluence**: Import markdown directly.
 - **Email**: Attach the `.md` file – most email clients render markdown nicely in code blocks.
 
 ---
 
-💡 *Need help? Pop a question in Slack and tag @YourName. Happy coding!* 
+* Reach out with any questions! Happy coding!* 
